@@ -13,8 +13,8 @@ Matthew Lee 39698055 matthtl5
 
 Elias Maalouly 70327408 eliasmaalouly
 
-Adnan Sheik 32947889 adnansheik137
-
 Devin Hua 49528429 derpadev
 
 Sid Rachabathuni 31454646 sidracha
+
+Adnan Sheik 32947889 adnansheik137
